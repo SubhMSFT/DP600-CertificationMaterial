@@ -30,4 +30,12 @@ Last updated: 3 Dec 2023
 - Microsoft Fabric: Satya Nadella at Microsoft Ignite 2023 > [https://www.youtube.com/playlist?list=PLmamF3YkHLoKMzT3gP4oqHiJbjMaiiLEh](https://www.youtube.com/watch?v=zrM36hfzkVE)
 - Make your data AI ready with Microsoft Fabric and Azure Databricks | BRK221H > [https://www.youtube.com/watch?v=DNO-nkB0kVU](https://www.youtube.com/watch?v=DNO-nkB0kVU)
 
-- 
+## Feedback
+You can share any feedback at: sugh AT microsoft dot com
+
+## License & Terms of Use
+
+This is a free white paper released into the public domain.
+Anyone is free to use or distribute this white paper, for any purpose, commercial or non-commercial, and by any means.
+
+THE WHITE PAPER IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
