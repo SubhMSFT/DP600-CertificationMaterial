@@ -27,10 +27,13 @@ Last updated: 3 Dec 2023
 
 - *** Mandatory *** How to get a Microsoft Fabric (Preview) trial? See here > https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial
 - Microsoft Learn Fabric learning path, 11 Modules > Get started with Microsoft Fabric > https://learn.microsoft.com/en-us/training/paths/get-started-fabric/
+- Hands-on Labs (HOL): TBD
+- Work in Progress: more sources to be added as released.
 
 ## Microsoft Sources (YouTube Videos for Concepts):
 - Microsoft Fabric: Satya Nadella at Microsoft Ignite 2023 > [https://www.youtube.com/playlist?list=PLmamF3YkHLoKMzT3gP4oqHiJbjMaiiLEh](https://www.youtube.com/watch?v=zrM36hfzkVE)
 - Make your data AI ready with Microsoft Fabric and Azure Databricks | BRK221H > [https://www.youtube.com/watch?v=DNO-nkB0kVU](https://www.youtube.com/watch?v=DNO-nkB0kVU)
+- Work in Progress: more sources to be added as released.
 
 ## Feedback
 You can share any feedback at: sugh AT microsoft dot com
