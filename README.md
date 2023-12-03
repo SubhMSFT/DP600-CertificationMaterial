@@ -12,7 +12,7 @@ As per Microsoft Learn page: Data Engineer, Data Analyst. However, from my perso
 As a candidate for this exam, you need solid knowledge and experience in designing, creating, and deploying enterprise-scale data analytics solutions. Ideally, this means that you either currently have OR in the recent past have had the experience of building (or architecting, or solutioning, or engineering) data transformation projects (ideally in complex Enterprise IT landscapes) by using Microsoft Fabric components, such as: Lakehouses, Data warehouses, Notebooks, Dataflows, Data pipelines, Semantic models and Reports. Additionally, it is assumed that you possess some level of expertise (or working knowledge) in Data modeling, Data transformation, Git-based source control, Exploratory analytics, Languages, including Structured Query Language (SQL), Data Analysis Expressions (DAX), and PySpark.
 
 ## Course Outline:
-Official course outline can be accessed here: [https://learn.microsoft.com/en-us/certifications/resources/study-guides/DP-420](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-600)
+Official course outline can be accessed here: [https://learn.microsoft.com/en-us/certifications/resources/study-guides/DP-600](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-600)
 
 ## Note:
 Most questions cover features that are General Availability (GA). The exam may contain questions on Preview features if those features are commonly used.
