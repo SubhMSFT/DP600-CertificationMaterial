@@ -23,6 +23,9 @@ Different resources are available for preparing, which have been categorized as 
 Last updated: 3 Dec 2023
 
 ## Microsoft Sources:
+
+![Image1](images/Fabric.jpg)
+
 - *** Mandatory *** How to get a Microsoft Fabric (Preview) trial? See here > https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial
 - Microsoft Learn Fabric learning path, 11 Modules > Get started with Microsoft Fabric > https://learn.microsoft.com/en-us/training/paths/get-started-fabric/
 
