@@ -25,6 +25,8 @@ Last updated: 3 Dec 2023
 
 ![Image1](images/Fabric.png)
 
+![Image2](images/onelake-storage.png)
+
 - *** Mandatory *** How to get a Microsoft Fabric (Preview) trial? See here > https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial
 - Microsoft Learn Fabric learning path, 11 Modules > Get started with Microsoft Fabric > https://learn.microsoft.com/en-us/training/paths/get-started-fabric/
 - Hands-on Labs (HOL): TBD
